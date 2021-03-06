@@ -33,7 +33,7 @@ const RealTimeData = "fff4"
 const SettingData = "fff5"
 
 // DeviceName is the name we look for when we scan.
-const DeviceName = "iBBQ"
+const DeviceName = "ibt"
 
 // Status represents our connection status
 type Status string
